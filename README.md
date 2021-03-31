@@ -8,7 +8,7 @@ In my current role at Microsoft Commercial Software Engineering (CSE), I'm leadi
 
 - As a manager/lead, if things go well, give your team the credit. If things go badly, take the blame yourself.
 - Always keep learning. Teach yourself multiple ways of solving the same problem.
-- The term "best practices" is relative. Best practices change over time. Be prepared to re-learn.
+- The term *best practices* is relative. Best practices change over time. Be prepared to unlearn and re-learn.
 - People over processes.
 - New systems are best designed by a small numbers of minds, not committees.
 - Judge people on their contributions, not on how confident they seem.
@@ -27,5 +27,4 @@ In my current role at Microsoft Commercial Software Engineering (CSE), I'm leadi
 - Choose your data storage backend according to the shape of data, types of queries, read/write patterns and performance requirements. Every use case is different.
 
 [![Hassaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=syedhassaanahmed&show_icons=true&theme=dark&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=syedhassaanahmed&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
