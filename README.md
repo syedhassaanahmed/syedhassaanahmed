@@ -23,7 +23,7 @@ In my current role at Microsoft Commercial Software Engineering (CSE), I'm leadi
 - Being able to tell what your system is doing is crucial, so make sure it’s observable.
 - Have someone in the team who owns the overall vision and direction for a system. Without it, the architecture will degrade over time as it gets pulled in different directions.
 - Out of all the agile practices commonly used, estimating task sizes and trying to measure project velocity is the least useful.
-- Beware of hyped or fashionable tech. The fundamentals of CS and SE don’t change much over time.
+- Beware of hyped or fashionable tech (looking at you Kubernetes 😉). The fundamentals of CS and SE don’t change much over time.
 - Choose your data storage backend according to the shape of data, types of queries, read/write patterns and performance requirements. Every use case is different.
 
 [![Hassaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=syedhassaanahmed&show_icons=true&theme=dark&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
