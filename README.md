@@ -8,7 +8,7 @@ In my current role at Microsoft Commercial Software Engineering (CSE), I'm leadi
 
 - As a manager/lead, if things go well, give your team the credit. If things go sideways, take the blame yourself.
 - Always keep learning. Teach yourself multiple ways of solving the same problem.
-- The term *best practices* is relative. Best practices constantly change over time. Brace yourself to unlearn and re-learn.
+- The term *best practices* is relative. Best practices constantly evolve over time. Brace yourself to unlearn and re-learn.
 - People over processes.
 - New systems are best designed by a small number of minds, not committees.
 - Judge people on their contributions, not on how confident they seem.
