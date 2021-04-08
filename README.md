@@ -2,7 +2,7 @@
 
 I'm **Hassaan** (correct, my first name is not *Syed* 😄). I'm a curious engineering manager with a passion for cloud-scale data engineering. Having worked in and now living in my 4th country, it has not only enabled me to operate fluently in diverse teams, it has also broadened my analytical horizons. 
 
-In my current role at Microsoft Commercial Software Engineering (CSE), I'm leading a team of talented and hard-working developers that empower top Azure customers to achieve more and drive the value of intelligent cloud and edge through great software engineering.
+In my current role at Microsoft Commercial Software Engineering (CSE), I'm leading a team of talented and hard-working developers that empower strategically important Azure customers to achieve more and drive the value of intelligent cloud and edge through software engineering.
 
 ### Things I believe (*in no particular order*)
 
