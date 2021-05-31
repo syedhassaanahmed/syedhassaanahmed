@@ -14,7 +14,7 @@ In my current role at Microsoft Commercial Software Engineering (CSE), I'm leadi
 - People over processes.
 - Judge people on their contributions, not on how confident they seem.
 - Don't let your own desire to get things done quickly turn into undue pressure on your peers.
-- Out of all the agile practices commonly used, estimating task sizes and trying to measure project velocity is the least useful.
+- Out of all the agile practices commonly used, estimating work items and trying to measure project velocity is the least useful.
 - New systems are best designed by a small number of minds, not committees.
 - Have someone in the team who owns the overall vision and direction of a system. Without it, the architecture will degrade over time as it gets pulled in different directions.
 - Beware of hyped or fashionable tech (looking at you Kubernetes 😉). CS and engineering fundamentals don’t change much over time.
