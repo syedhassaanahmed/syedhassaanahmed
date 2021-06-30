@@ -6,7 +6,6 @@ In my current role at Microsoft Commercial Software Engineering (CSE), I'm leadi
 
 ### Things I believe (*in no particular order*)
 
-- [SOLID](https://en.wikipedia.org/wiki/SOLID)
 - [YAGNI](https://en.wikipedia.org/wiki/You_aren%27t_gonna_need_it)
 - Code is a liability, not an asset.
 - Always keep learning. Teach yourself multiple ways of solving the same problem.
