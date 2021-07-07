@@ -17,7 +17,7 @@ In my current role at Microsoft Commercial Software Engineering (CSE), I'm leadi
 - New systems are best designed by a small number of minds, not committees.
 - Have someone in the team who owns the overall vision and direction of a system. Without it, the architecture will degrade over time as it gets pulled in different directions.
 - Your team is only as good as your weakest code reviewer.
-- Beware of hyped or fashionable tech (looking at you Kubernetes 😉). CS and engineering fundamentals don’t change much over time.
+- Beware of hyped or fashionable tech (looking at you Kubernetes 😉). CS fundamentals don’t change much over time.
 - Have the same high standards for all the code you write, from tests, little scripts to the inner loop of your critical system.
 - It doesn't matter if you write the tests first, last, or in the middle, but all code must have good tests.
 - Main branch should always be deployable to prod. Deploy from main to prod from the very beginning of a project.
