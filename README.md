@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is **Hassaan** (correct, it's not *Syed* 😄). I'm a curious Engineering Manager with 15+ years of experience in developing Software and leading Engineering teams. I'm particularly passionate about Data and Analytics in the Cloud. Living in four countries has enabled me to effectively contribute in teams with diverse backgrounds. Working across industries such as Retail, Telco, AdTech, Manufacturing and Energy has helped me understand a wide array of business domains. 
+My name is **Hassaan** (correct, it's not *Syed* 😄). I'm a curious Engineering Manager with 15+ years of experience in developing Software and leading Software development teams. I'm particularly passionate about Data and Analytics in the Cloud. Living in four countries has enabled me to effectively contribute to teams with diverse backgrounds. Working across industries such as Retail, Telco, AdTech, Manufacturing and Energy has helped me understand a wide array of business domains.
 
 In my current role at Microsoft Commercial Software Engineering (CSE), I lead a team of talented and meticulous developers that empower strategically important Microsoft Azure customers to drive the value of intelligent cloud through Software Engineering.
 
@@ -8,7 +8,7 @@ In my current role at Microsoft Commercial Software Engineering (CSE), I lead a 
 
 - [YAGNI](https://en.wikipedia.org/wiki/You_aren%27t_gonna_need_it)
 - Code is a liability, not an asset.
-- Always keep learning. Teach yourself multiple ways of solving the same problem.
+- Teach yourself multiple ways of solving the same problem.
 - The term *best practices* is relative. Best practices constantly evolve over time. Brace yourself to unlearn and re-learn.
 - People over processes.
 - Judge people on their contributions, not on how confident they seem.
