@@ -24,6 +24,3 @@ In my current role at Microsoft Commercial Software Engineering (CSE), I lead a 
 - Being able to tell what your system is doing is crucial, so make sure it’s observable.
 - Choose your data storage backend according to the shape of data, types of queries, read/write patterns and performance requirements.
 - As a manager/lead, if things go well, give your team the credit. If things go sideways, take the blame yourself.
-
-[![Hassaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=syedhassaanahmed&show_icons=true&theme=dark&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=syedhassaanahmed&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
