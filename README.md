@@ -6,13 +6,13 @@ In my current role at Microsoft Commercial Software Engineering (CSE), I lead a 
 
 ### Things I believe (*in no particular order*)
 
-- [YAGNI](https://en.wikipedia.org/wiki/You_aren%27t_gonna_need_it)
+- Prioritize architecting for current requirements over future ones. aka [YAGNI](https://en.wikipedia.org/wiki/You_aren%27t_gonna_need_it)
 - Code is a liability, not an asset.
 - Teach yourself multiple ways of solving the same problem.
 - The term *best practices* is relative. Best practices constantly evolve over time. Brace yourself to unlearn and re-learn.
 - People over processes.
 - Judge people on their contributions, not on how confident they seem.
-- Don't let your own desire to get things done quickly turn into undue pressure on your peers.
+- Don't let your own desire to get things done quickly, turn into undue pressure on your peers.
 - Out of all the agile practices commonly used, estimating work items and trying to measure project velocity is the least useful.
 - New systems are best designed by a small number of minds, not committees.
 - Your team is only as good as your weakest code reviewer.
