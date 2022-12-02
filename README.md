@@ -1,26 +1,26 @@
 ### Hi there 👋
 
-I'm a curious Engineering Manager with 15+ years of experience in developing Software and leading Software development teams. I'm particularly passionate about Data and Analytics in the Cloud. Living in four countries has enabled me to effectively collaborate in teams with diverse backgrounds. Working across industries such as Retail, Government, Telco, Ad Tech, Manufacturing and Energy has helped me understand a wide array of business domains.
+I'm a curious Engineering Manager with 16+ years of experience in developing Software and leading Software development teams. I'm particularly passionate about Data and Analytics in the Cloud. Living in four countries has enabled me to effectively collaborate in teams with diverse backgrounds. Working across industries such as Retail, Government, Telco, Ad Tech, Manufacturing and Energy has helped me understand a wide array of business domains.
 
 In my current role at Microsoft Commercial Software Engineering (CSE), I lead a team of talented and meticulous developers that empower strategically important Microsoft Azure customers to drive the value of intelligent cloud through Software Engineering.
 
-### Things I believe (*in no particular order*)
+### Great Software Engineers from my observation (*in no particular order*)
 
-- Prioritize architecting for current requirements over future ones. aka [YAGNI](https://en.wikipedia.org/wiki/You_aren%27t_gonna_need_it)
-- Code is a liability, not an asset.
-- Teach yourself multiple ways of solving the same problem.
-- The term *best practices* is relative. Best practices constantly evolve over time. Brace yourself to unlearn and re-learn.
-- People over processes.
-- Judge people on their contributions, not on how confident they seem.
-- Don't let your own desire to get things done quickly, turn into undue pressure on your peers.
-- Out of all the agile practices commonly used, estimating work items and trying to measure project velocity is the least useful.
-- New systems are best designed by a small number of minds, not committees.
-- Your team is only as good as your weakest code reviewer.
-- Beware of hyped or fashionable tech (looking at you Kubernetes 😉). CS fundamentals don’t change much over time.
-- Have the same high standards for all the code you write, from tests, little scripts to the inner loop of your critical system.
-- It doesn't matter if you write the tests first, last, or in the middle, but all code must have good tests.
-- Main branch should always be deployable to prod. Deploy from main to prod from the very beginning of a project.
-- Automate all the things that can be automated.
-- Being able to tell what your system is doing is crucial, so make sure it’s observable.
-- Choose your data storage backend according to the shape of data, types of queries, read/write patterns and performance requirements.
-- As a manager/lead, if things go well, give your team the credit. If things go sideways, take the blame yourself.
+- prioritize architecting for current requirements over hypothetical future ones. aka [YAGNI](https://en.wikipedia.org/wiki/You_aren%27t_gonna_need_it)
+- treat code as a liability, not an asset.
+- teach themselves multiple ways of solving the same problem.
+- consider the term *best practices* as relative. Since best practices constantly evolve over time, great engineers brace themselves to unlearn and re-learn.
+- put people over processes.
+- judge people on their contributions, not on how confident they seem.
+- don't let their own desire to get things done quickly, turn into undue pressure on peers.
+- recognize that out of all the agile practices commonly used, estimating work items and trying to measure project velocity is the least productive.
+- acknowledge that new systems are best designed by a small number of minds, not committees.
+- are aware that their team is only as good as the weakest code reviewer.
+- are cautious when dealing with hyped/fashionable tech (e.g. Kubernetes) and understand that CS fundamentals don’t change much over time.
+- ensure that all code must have good tests regardless if the tests were written first, last, or in the middle.
+- have the same high standards for all the code they write, from tests, little scripts to the inner loop of critical system.
+- deploy from main branch to prod from the very beginning of a project.
+- automate all the things that are worth automating.
+- know the importance of being able to tell what the system is doing, so they make sure it’s observable.
+- choose data storage solution according to the shape of data, types of queries, read/write patterns and performance requirements.
+- As managers/leads, if things go well, they give their team the credit. If things go sideways, they take the blame themselves.
