@@ -6,7 +6,7 @@ In my current role at Microsoft Commercial Software Engineering (CSE), I lead a 
 
 ### Great Software Engineers from my observation (*in no particular order*)
 
-- prioritize architecting for current requirements over hypothetical future ones. aka [YAGNI](https://en.wikipedia.org/wiki/You_aren%27t_gonna_need_it)
+- prioritize architecting for current requirements over hypothetical future ones aka [YAGNI](https://en.wikipedia.org/wiki/You_aren%27t_gonna_need_it)
 - treat code as a liability, not an asset.
 - teach themselves multiple ways of solving the same problem.
 - consider the term *best practices* as relative. Since best practices constantly evolve over time, great engineers brace themselves to unlearn and re-learn.
