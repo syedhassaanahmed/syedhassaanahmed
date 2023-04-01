@@ -10,7 +10,7 @@ In my current role at Microsoft Industry Solutions Engineering (ISE), I lead a t
 - treat code as a liability, not an asset.
 - prioritize building for current requirements over hypothetical future ones aka [YAGNI](https://en.wikipedia.org/wiki/You_aren%27t_gonna_need_it)
 - consider the term *best practices* as relative. Since best practices constantly evolve over time, great engineers brace themselves to unlearn and re-learn.
-- never settle in not knowing in-depth how something works.
+- never settle in learning in-depth how something works.
 - put people over processes.
 - judge people on their contributions, not on how confident they seem.
 - don't let their own desire to get things done quickly, turn into undue pressure on peers.
