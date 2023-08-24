@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a curious Engineering Manager with 16+ years of experience in developing Software and leading Software development teams. I'm particularly passionate about Data and Analytics solutions in the Public Cloud. Living in four countries has enabled me to effectively collaborate in teams with diverse backgrounds. Working across industries such as Retail, Government, Telco, Ad Tech, Manufacturing and Energy has helped me understand a wide array of business domains.
+I'm a curious Engineering Manager with 16+ years of experience in developing Software and leading Software development teams. Living in four countries has enabled me to effectively collaborate in teams with diverse backgrounds. Working across industries such as Retail, Telco, Manufacturing and Energy has helped me understand a wide array of business domains.
 
 In my current role at Microsoft Industry Solutions Engineering (ISE), I lead a team of talented and meticulous developers that empower strategically important Microsoft Azure customers through high-impact co-innovation and co-engineering.​
 
@@ -23,5 +23,4 @@ In my current role at Microsoft Industry Solutions Engineering (ISE), I lead a t
 - deploy from main branch to prod from the very beginning of a project.
 - automate all the things that are worth automating.
 - know the importance of being able to tell what the system is doing, so they make sure it’s observable.
-- choose data storage solution according to the shape of data, types of queries, read/write patterns and performance requirements.
 - As managers/leads, if things go well, they give their team the credit. If things go sideways, they take the blame themselves.
