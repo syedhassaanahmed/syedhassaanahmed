@@ -2,8 +2,6 @@
 
 I'm a curious Engineering Manager with 16+ years of experience in developing Software and leading Software development teams. Living in four countries has enabled me to effectively collaborate in teams with diverse backgrounds. Working across industries such as Retail, Telco, Manufacturing and Energy has helped me understand a wide array of business domains.
 
-In my current role at Microsoft Industry Solutions Engineering (ISE), I lead a team of talented and meticulous developers that empower strategically important Microsoft Azure customers through high-impact co-innovation and co-engineering.​
-
 ### Great Software Engineers from my observation (*in no particular order*)
 
 - teach themselves multiple ways of solving the same problem and understand that code is just one of the many ways to achieve the solution.
