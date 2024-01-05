@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a curious Engineering Manager with 17+ years of experience in developing Software and leading Software development teams. Living in four countries has enabled me to effectively collaborate in teams with diverse backgrounds. Working across industries such as Retail, Telco, Manufacturing and Energy has helped me understand a wide array of business domains.
+I'm a curious Engineering Manager with 17+ years of experience in developing software and leading engineering teams. Having lived in 4 countries, I've developed a strong ability to collaborate effectively with diverse and cross-functional teams. Having worked across industries such as Retail, Telco, Manufacturing and Energy, enables me to drive customer success, business value, and engineering excellence.
 
 ### Great Software Engineers from my observation (*in no particular order*)
 
