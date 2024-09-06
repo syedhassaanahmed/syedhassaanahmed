@@ -4,14 +4,14 @@ I'm a curious Engineering Manager with 17+ years of experience in developing sof
 
 ### Well-rounded Software Engineers from my observation (*in no particular order*)
 
-- teach themselves multiple ways of solving the same problem and understand that code is just one of the many ways to achieve the solution.
-- treat code as a liability, not an asset.
+- teach themselves multiple ways of solving the same problem and understand that code is just one of the many ways to achieve the solution. As a consequence, they treat code as a liability, not an asset.
 - prioritize building for current requirements over hypothetical future ones aka [YAGNI](https://en.wikipedia.org/wiki/You_aren%27t_gonna_need_it)
 - consider the term *best practices* as relative. Since best practices constantly evolve over time, great engineers brace themselves to unlearn and re-learn.
 - never settle in learning in-depth how something works.
 - put people over processes.
 - judge people on their contributions, not on how confident they seem.
 - don't let their own desire to get things done quickly, turn into undue pressure on peers.
+- are happy with others' success and acknowledge that success is not a zero-sum game.
 - recognize that out of all the agile practices commonly used, estimating work items and trying to measure project velocity is the least productive.
 - acknowledge that new systems are best designed by a small number of minds, not committees.
 - instead of only doing their parts, help out in dependent workstreams too if needed.
