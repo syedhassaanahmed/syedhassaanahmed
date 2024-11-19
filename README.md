@@ -5,7 +5,7 @@ I'm a curious Engineering Manager with 17+ years of experience in developing sof
 ### Well-rounded Software Engineers from my observation (*in no particular order*)
 
 - teach themselves multiple ways of solving the same problem and understand that code is just one of the many ways to achieve the solution. As a consequence, they treat code as a liability, not an asset.
-- consider the term *best practices* as relative. Since best practices constantly evolve over time, great engineers brace themselves to unlearn and re-learn and never settle in learning in-depth how something works.
+- consider the term *best practices* as relative. Since best practices constantly evolve over time, great engineers brace themselves to unlearn and re-learn. They never settle in learning in-depth how something works.
 - put people over processes.
 - judge people on their contributions, not on how confident they seem.
 - don't let their own desire to get things done quickly, turn into undue pressure on peers.
