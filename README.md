@@ -17,7 +17,7 @@ I'm a curious Engineering Manager with 18+ years of experience in developing sof
 - are cautious when dealing with hyped/fashionable tech (e.g. Kubernetes) and understand that CS fundamentals don’t change much over time.
 - understand that knowledge of specific frameworks, libraries or tools is not that important in the long run.
 - keep the documentation as close to the actual source code as possible.
-- ensure that all code must have good tests regardless if the tests were written first, last, or in the middle.
+- ensure that all code in the critical path has good tests, regardless if the tests were written first, last, or in the middle.
 - have the same high standards for all the code they write, from tests, little scripts to the inner loop of critical system.
 - deploy from main branch to prod from the very beginning of a project.
 - automate all the things that are worth automating.
