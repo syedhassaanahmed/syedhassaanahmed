@@ -19,7 +19,7 @@ I'm a curious Engineering Manager with 18+ years of experience in developing sof
 - Success is not a zero-sum game, so be happy and content with others' success.
 - Out of all the agile practices commonly used, estimating work items and trying to measure project velocity is the least productive.
 - New systems are best designed by a small number of minds, not committees.
-- Instead of only doing your part, help out in dependent workstreams too to fully understand the E2E.
+- Instead of only doing your part, help out in dependent workstreams too to fully understand the E2E. Aim to solve the "whole problem".
 - Your team is only as good as the weakest code reviewer.
 - Don't get sucked into hyped/fashionable tech and understand that CS fundamentals don’t change much over time.
 - Knowledge of specific frameworks, libraries or tools is not that important in the long run.
