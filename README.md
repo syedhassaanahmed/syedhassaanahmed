@@ -19,13 +19,13 @@ I'm a curious Engineering Manager with 19+ years of experience in developing sof
 - Put people over processes.
 - Assume best intentions.
 - Judge people on their contributions, not on how confident they seem.
-- Don't let your own desire to get things done quickly, turn into undue pressure on peers.
+- Don't let your own desire to get things done quickly, turn into undue pressure on colleagues.
 - Success is not a zero-sum game, so be happy and content with others' success.
 - New systems are best designed by a small number of minds, not committees.
 - As a Manager/Lead, if things go well, give your team the credit. If things go sideways, take the blame yourself.
 
 ### Code
-- Code is a liability, not an asset. Each meaningful piece of code has to be version controled, tested, secured, deployed, monitored and documented.
+- Code is a liability, not an asset. Each meaningful piece of code has to be version controled, tested, secured, deployed, monitored and documented iteratively throughout it's evolution.
 - Code is just one of the many ways of achieving a solution.
 - Your team is only as good as the weakest code reviewer.
 - Don't get sucked into hyped/fashionable tech. Internalize that CS fundamentals don’t change much over time.
@@ -35,5 +35,5 @@ I'm a curious Engineering Manager with 19+ years of experience in developing sof
 - Have the same high standards for all the code, from tests, little scripts to the inner loop of a critical system.
 - Deploy from a main branch to an environment from the very beginning of a project.
 - Don't implement in the app code, what can be configured in the infra.
-- Automate all the things that are worth automating.
+- Automate all the things that are worth automating as early as possible.
 - Ensure the system is observable so that you can enquire at any time what is happening.
