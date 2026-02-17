@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm a curious Engineering Manager with 19+ years of experience in developing software and leading teams. Having lived in 5 countries, I've learned to collaborate effectively with multi-disciplinary and geo-distributed teams. Having worked across industries such as Retail, Telco, Manufacturing and Energy, enables me to drive engineering excellence and business value.
+I'm a curious Engineering Manager with 19+ years of experience in developing software products and leading people. Having lived in 5 countries, I've learned to collaborate effectively with multi-disciplinary and geo-distributed teams. Having worked across industries such as Retail, Gov, Telco, Manufacturing and Energy, enables me to drive engineering excellence and business value in the age of AI.
 
 ## Values of well-rounded Software Engineers in my opinion (*in no particular order*)
 
@@ -27,6 +27,7 @@ I'm a curious Engineering Manager with 19+ years of experience in developing sof
 ### Code
 - Code is a liability, not an asset. Each meaningful piece of code has to be version controled, tested, secured, deployed, monitored and documented iteratively throughout it's evolution.
 - Code is just one of the many ways of achieving a solution.
+- You own the code and are responsible for it, whether it was written by you, copied from Stackoverflow or generated with AI.
 - Your team is only as good as the weakest code reviewer.
 - Don't get sucked into hyped/fashionable tech. Internalize that CS fundamentals don’t change much over time.
 - Knowledge of specific frameworks, libraries or tools is not that important in the long run.
