@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm a curious Engineering Manager with 19+ years of experience in developing software products and leading people. Having lived in 5 countries, I've learned to collaborate effectively with multi-disciplinary and geo-distributed teams. Having worked across industries such as Retail, Gov, Telco, Manufacturing and Energy, enables me to drive engineering excellence and business value in the age of AI.
+I'm a curious Engineering Manager with 19+ years of experience in developing software products and leading people. Having lived in 5 countries, I've learned to collaborate effectively with multi-disciplinary and geo-distributed teams. Having worked across industries such as Retail, Gov, Telco, Manufacturing and Energy, enables me to drive business outcomes and engineering excellence in the age of AI.
 
 ## Values of well-rounded Software Engineers in my opinion (*in no particular order*)
 
