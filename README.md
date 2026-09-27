@@ -23,6 +23,7 @@ I'm a curious Engineering Manager with 19+ years of experience in developing sof
 - Success is not a zero-sum game, so be happy and content with others' success.
 - New systems are best designed by a small number of minds, not committees.
 - As a Manager/Lead, if things go well, give your team the credit. If things go sideways, take the blame yourself.
+- Leaders model calm. When you stay calm under pressure, your team follows suit.
 
 ### Code
 - Code is a liability, not an asset. Each meaningful piece of code has to be version controled, tested, secured, deployed, monitored and documented iteratively throughout it's evolution.
