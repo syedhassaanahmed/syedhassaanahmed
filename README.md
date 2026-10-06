@@ -18,6 +18,7 @@ I'm a curious Engineering Manager with 19+ years of experience in developing sof
 ### People
 - Put people over processes.
 - Assume best intentions.
+- Maintain awareness of your own biases.
 - Judge people on their contributions, not on how confident they seem.
 - Don't let your own desire to get things done quickly, turn into undue pressure on colleagues.
 - Success is not a zero-sum game, so be happy and content with others' success.
