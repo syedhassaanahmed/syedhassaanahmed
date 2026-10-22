@@ -22,9 +22,10 @@ I'm a curious Engineering Manager with 19+ years of experience in developing sof
 - Judge people on their contributions, not on how confident they seem.
 - Don't let your own desire to get things done quickly, turn into undue pressure on colleagues.
 - Success is not a zero-sum game, so be happy and content with others' success.
+- Customer is not a monolithic entity, it's a mosaic of individuals with vastly different motivations, habits, and expectations.
 - New systems are best designed by a small number of minds, not committees.
-- As a Manager/Lead, if things go well, give your team the credit. If things go sideways, take the blame yourself.
 - Leaders model calm. When you stay calm under pressure, your team follows suit.
+- As a Manager/Lead, if things go well, give your team the credit. If things go sideways, take the blame yourself.
 
 ### Code
 - Code is a liability, not an asset. Each meaningful piece of code has to be version controled, tested, secured, deployed, monitored and documented iteratively throughout it's evolution.
@@ -32,11 +33,10 @@ I'm a curious Engineering Manager with 19+ years of experience in developing sof
 - You own the code and are responsible for it, whether it was written by you, copied from Stackoverflow or generated with AI.
 - Your team is only as good as the weakest code reviewer.
 - Large PRs increase the cognitive load on human code reviewers. Be kind to them by attaching a proof that your PR actually works (e.g. screenshots or short videos).
-- Don't get sucked into hyped/fashionable tech. Internalize that CS fundamentals hasn't changed much over time.
+- Don't get sucked into hyped/fashionable tech. Internalize that CS fundamentals haven't changed much over time.
 - Knowledge of specific frameworks, libraries or tools is not that important in the long run.
 - Keep the docs as close to the actual source code as possible.
 - All code in the critical path should have good tests, regardless if the tests were written first, last, or in the middle.
-- Have the same high standards for all the code, from tests, little scripts to the inner loop of a critical system.
 - Deploy from a main branch to an environment from the very beginning of a project.
 - Don't implement in the app code, what can be configured in the infra.
 - Automate all the things that are worth automating as early as possible.
