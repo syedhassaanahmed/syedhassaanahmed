@@ -14,7 +14,7 @@ I'm a curious Engineering Manager with 19+ years of experience in developing sof
 - Avoid unearned complexity by practicing [YAGNI](https://en.wikipedia.org/wiki/You_aren%27t_gonna_need_it).
 - Beware of the [sunk cost fallacy](https://www.investopedia.com/terms/s/sunkcost.asp#toc-the-sunk-cost-fallacy).
 - Out of all the agile practices commonly used, estimating work items and trying to measure project velocity is the least productive.
-- Looking at GenAI solely through the lens of speed misses its deeper value, which lies in decision intelligence, and uncovering quality gaps rather than just doing old tasks faster.
+- Looking at GenAI solely for speed gains misses its deeper value, which lies in decision intelligence, and uncovering quality gaps rather than just doing old tasks faster.
 
 ### People
 - Put people over processes.
